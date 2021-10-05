@@ -1,6 +1,8 @@
 {
     "recommendations": [
         "knisterpeter.vscode-github",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "ivangabriele.vscode-git-add-and-commit",
+        "mindaro.mindaro"
     ]
 }
